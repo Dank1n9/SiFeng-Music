@@ -10,7 +10,7 @@
 
  东方幻想声景企划。以凤为名，以雨为引，把值得反复听的音乐， 用一个足够好看的页面，郑重地摆在你面前。
 
- # https://sifeng.shiorko.dpdns.org/#works  👈点击开始司凤
+ # https://sifeng.shiorko.dpdns.org  👈点击开始司凤
 
 
 
